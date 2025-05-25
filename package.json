@@ -1,8 +1,20 @@
 {
-  "name": "mapas-bot",
+  "name": "mapas-bot-aoe",
   "version": "1.0.0",
-  "description": "Web component for displaying maps based on name",
+  "description": "Web component for displaying aoe map based on name",
   "type": "module",
+  "main": "mapas-bot.js",
+  "files": [
+    "mapas-bot.js",
+    "images/*"
+  ],
+  "keywords": [
+    "web-component",
+    "lit-element",
+    "maps"
+  ],
+  "author": "Federico Mercerat",
+  "license": "MIT",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
   },
