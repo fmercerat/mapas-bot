@@ -1,6 +1,6 @@
 {
   "name": "mapas-bot-aoe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web component for displaying aoe map based on name",
   "type": "module",
   "main": "mapas-bot.js",
